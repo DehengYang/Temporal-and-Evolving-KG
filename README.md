@@ -201,7 +201,7 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 [论文浅尝 | 让“演进知识图谱”带你“瞻前顾后”看世界](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
 
 
-【资源推荐】 时序处理文献/代码/数据集及相关资源大列表(https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
+[【资源推荐】 时序处理文献/代码/数据集及相关资源大列表](https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
 
 
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
