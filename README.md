@@ -124,7 +124,7 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
-1. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf)
+1. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf) [[Video]](https://mp.weixin.qq.com/s/xgiQsTLtWkC3eW49AnYsjA)
 
 
 2. Yang Li, Buyue Qian, Xianli Zhang, and Hui Liu. [Knowledge guided diagnosis prediction via graph spatial-temporal network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3). ICDM 2020. [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3)
