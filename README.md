@@ -22,7 +22,7 @@ Table of Contents
 
 
 ## Survey
-1. Siddhant Arora. [A Survey on Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/pdf/2007.12374.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.12374.pdf)
+1. Siddhant Arora. [A Survey on Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/pdf/2007.12374.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.12374.pdf) [[《图神经网络知识图谱补全》 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/xKtSQDSDJgN616yD6M3VBw)
 
 
 2. Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, Zhouhua Tang. [A Survey on Dynamic Network Embedding](https://arxiv.org/pdf/2006.08093.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08093.pdf)
