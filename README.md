@@ -22,16 +22,19 @@ Table of Contents
 
 
 ## Survey
-1. Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, Zhouhua Tang. [A Survey on Dynamic Network Embedding](https://arxiv.org/pdf/2006.08093.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08093.pdf)
+1. Siddhant Arora. [A Survey on Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/pdf/2007.12374.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.12374.pdf)
 
 
-2. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2002.00388.pdf)
+2. Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, Zhouhua Tang. [A Survey on Dynamic Network Embedding](https://arxiv.org/pdf/2006.08093.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08093.pdf)
 
 
-3. Dat Quoc Nguyen. [An overview of embedding models of entities and relationships for knowledge base completion](https://arxiv.org/pdf/1703.08098.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1703.08098.pdf)
+3. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2002.00388.pdf)
 
 
-4. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
+4. Dat Quoc Nguyen. [An overview of embedding models of entities and relationships for knowledge base completion](https://arxiv.org/pdf/1703.08098.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1703.08098.pdf)
+
+
+5. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
 ## Temporal_Rule_Learning_and_Resoning
