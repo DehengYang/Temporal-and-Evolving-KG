@@ -37,6 +37,9 @@ Table of Contents
 5. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
+6. Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. [Knowledge Graph Embedding for Link Prediction: A Comparative Analysis](https://arxiv.org/abs/2002.00819). Arxiv 2020. [[Paper]](https://arxiv.org/abs/2002.00819)
+
+
 ## Temporal_Rule_Learning_and_Resoning
 1. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
 
