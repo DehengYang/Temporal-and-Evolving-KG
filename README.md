@@ -110,6 +110,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 2. Simon Gottschalk, Elena Demidova. [EventKG: A Multilingual Event-Centric Temporal Knowledge Graph](https://arxiv.org/pdf/1804.04526.pdf). ESWC 2018. [[Paper]](https://arxiv.org/pdf/1804.04526.pdf)
 
 
+3. Simon Gottschalk, Elena Demidova. [HapPenIng: Happen, Predict, Infer —Event Series Completion in a Knowledge Graph](https://arxiv.org/pdf/1909.06219.pdf). ISWC 2019. [[Paper]](https://arxiv.org/pdf/1909.06219.pdf)
+
+
 ## Evolution_Analysis_and_Prediction_based_Event
 1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang. [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/pdf/2005.11650v1.pdf). KDD 2020. [[Paper]](https://arxiv.org/pdf/2005.11650v1.pdf)  
 
@@ -124,6 +127,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 5. Nathanael Chambers, Taylor Cassidy, Bill McDowell, Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182). TACL 2014. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182)
+
+
+6. Shumin Deng, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://dl.acm.org/doi/10.1145/3308560.3317701). WWW 2019. [[Paper]](https://dl.acm.org/doi/10.1145/3308560.3317701)
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
@@ -158,6 +164,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 11. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, and Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
+
+
+12. Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu. [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://arxiv.org/abs/1707.01926). ICLR 2018. [[Paper]](https://arxiv.org/abs/1707.01926)
 
 
 
@@ -209,6 +218,21 @@ Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, Jens Lehmann. [Tempora
 
 
 16. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
+
+
+17. Yu Liu, Wen Hua, Kexuan Xin, Xiaofang Zhou. [Context-Aware Temporal Knowledge Graph Embedding](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_37). WISE 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_37)
+
+
+18. Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. [Temporal Knowledge Graph completion based on time series Gaussian embedding](https://arxiv.org/pdf/1911.07893.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1911.07893.pdf)
+
+
+19. Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. [Tensor Decompositions for Temporal Knowledge Base Completion](https://openreview.net/forum?id=rke2P1BFwS). ICLR 2020. [[Paper]](https://openreview.net/forum?id=rke2P1BFwS)
+
+
+20. Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://www.ijcai.org/Proceedings/2020/386). IJCAI 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/386)
+
+
+
 
 
 [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
