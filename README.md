@@ -127,37 +127,41 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
-1. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf) [[Video]](https://mp.weixin.qq.com/s/xgiQsTLtWkC3eW49AnYsjA)
+1. Songgaojun Deng, Huzefa Rangwala, and Yue Ning. [Dynamic Knowledge Graph based Multi-Event Forecasting
+](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). KDD 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). [[Report]](https://mp.weixin.qq.com/s/Txb4HdrQal2aXkSM17Rjxw)  
 
 
-2. Yang Li, Buyue Qian, Xianli Zhang, and Hui Liu. [Knowledge guided diagnosis prediction via graph spatial-temporal network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3). ICDM 2020. [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3)
+2. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf) [[Video]](https://mp.weixin.qq.com/s/xgiQsTLtWkC3eW49AnYsjA)
 
 
-3. Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, and Kannan Achan. [Inductive representation learning on temporal graphs](https://arxiv.org/pdf/2002.07962.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2002.07962.pdf)
+3. Yang Li, Buyue Qian, Xianli Zhang, and Hui Liu. [Knowledge guided diagnosis prediction via graph spatial-temporal network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3). ICDM 2020. [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3)
 
 
-4. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, and Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
+4. Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, and Kannan Achan. [Inductive representation learning on temporal graphs](https://arxiv.org/pdf/2002.07962.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2002.07962.pdf)
 
 
-5. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)[[论文导读 | TemporalGCN]](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
+5. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, and Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
 
-6. Zhining Liu, Dawei Zhou, and Jingrui He. [Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true). CIKM 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true)
+6. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)[[论文导读 | TemporalGCN]](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
 
 
-7. Zhendong Chu, Renqin Cai, and Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
+7. Zhining Liu, Dawei Zhou, and Jingrui He. [Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true). CIKM 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true)
 
 
-8. Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Wei Liu, and Zheng Yang. [Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf). CIKM 2019. [[Paper]](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf)
+8. Zhendong Chu, Renqin Cai, and Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
 
 
-9. Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S.Yu, and Yanfang Ye. [Temporal Network Embedding with Micro- and Macro-dynamics](https://arxiv.org/pdf/1909.04246v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.04246v1.pdf)
+9. Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Wei Liu, and Zheng Yang. [Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf). CIKM 2019. [[Paper]](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf)
 
 
-10. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, and Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+10. Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S.Yu, and Yanfang Ye. [Temporal Network Embedding with Micro- and Macro-dynamics](https://arxiv.org/pdf/1909.04246v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.04246v1.pdf)
 
 
-11. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, and Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
+11. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, and Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+
+
+12. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, and Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
 
 
 
