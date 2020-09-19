@@ -227,7 +227,7 @@ Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, Jens Lehmann. [Tempora
 [论文导读 | TemporalGCN](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
 
 
-[论文浅尝 | 让“演进知识图谱”带你“瞻前顾后”看世界](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
+[论文浅尝 | 让“演进知识图谱”带你“瞻前顾后”看世界](https://mp.weixin.qq.com/s/VcvxFGjgt-ldrC3TPiPg7w)
 
 
 [【资源推荐】 时序处理文献/代码/数据集及相关资源大列表](https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
