@@ -8,6 +8,7 @@ Table of Contents
 =================
 
   * [Survey](#Survey)
+  * [Report](#Report)
   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Relation Extraction](#Temporal_Relation_Extraction)
   * [Temporal Relation Checking](#Temporal_Relation_Checking)
@@ -35,6 +36,11 @@ Table of Contents
 
 
 5. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
+
+
+## Report
+1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
+Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. 
 
 
 ## Temporal_Rule_Learning_and_Resoning
