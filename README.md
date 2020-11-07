@@ -239,6 +239,10 @@ Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, Jens Lehmann. [Tempora
 [【资源推荐】 时序处理文献/代码/数据集及相关资源大列表](https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
 
 
+[论文导读 | 社交网络上的信息传播预测](https://mp.weixin.qq.com/s/ryDcTqS1W4j8GJOEkc1Lrw)
+
+
+
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
 
