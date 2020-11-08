@@ -242,6 +242,9 @@ Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, Jens Lehmann. [Tempora
 [论文导读 | 社交网络上的信息传播预测](https://mp.weixin.qq.com/s/ryDcTqS1W4j8GJOEkc1Lrw)
 
 
+[时态图网络：即使很久不发朋友圈，也能知道你的新兴趣](https://mp.weixin.qq.com/s/0wzzbNsqhT4LEvb-XsF9ng)
+
+
 
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
